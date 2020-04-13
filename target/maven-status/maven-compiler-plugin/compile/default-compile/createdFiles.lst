@@ -1,0 +1,7 @@
+com\flyaway\service\impl\FlightSearchServiceImpl.class
+com\flyaway\model\FlightSearch.class
+com\flyaway\dao\impl\FlightSearchDaoImpl.class
+com\flyaway\controller\FlightSearchController.class
+com\flyaway\dao\FlightSearchDAO.class
+com\flyaway\controller\HelloController.class
+com\flyaway\service\FlightSearchService.class
